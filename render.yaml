@@ -1,0 +1,7 @@
+services:
+  - name: palindrome-app
+    type: web
+    env: ruby
+    buildCommand: "bundle install"
+    startCommand: "bundle exec rackup config.ru -p 10000"
+    plan: free
