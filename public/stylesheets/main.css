@@ -29,6 +29,7 @@ p {
   margin: 0 0 4em;
   width: 70vh;
   border-radius: 10px;
+  overflow: hidden;
 }
 .header-logo {
   display: block;
