@@ -28,6 +28,7 @@ p {
   border: 20px solid #fff;
   margin: 0 0 4em;
   width: 70vh;
+  border-radius: 10px;
 }
 .header-logo {
   display: block;
@@ -62,6 +63,7 @@ p {
 }
 .content {
   padding: 2em 3em;
+  border-radius: 10px;
 }
 .sator-square {
   display: block;
